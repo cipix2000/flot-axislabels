@@ -59,6 +59,8 @@ Example
         );
     });
 
+[Fancier example] (https://rawgit.com/cipix2000/flot-axislabels/master/examples/axes-multiple/index.html)
+
 
 Usage
 -----
