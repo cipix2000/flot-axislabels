@@ -1,0 +1,13 @@
+
+{
+	"name": "flot-axislabels",
+	"version": "0.0.1",
+	"main": "jquery.flot.axislabels.js",
+	"scripts": {
+		"test": ""
+	},
+	"devDependencies": {
+		"jshint": "0.9.1"
+	}
+	"license": "MIT" 
+}
